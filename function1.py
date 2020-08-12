@@ -3,3 +3,5 @@ def function(12):
 
 def seconfun(12):
     return  15+ 12
+
+datanumber =1000
